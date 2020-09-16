@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. :heart:
+2. :heart:
+3. :heart:
+  1. :heart:
+  2. :heart:
+  3. :heart:
